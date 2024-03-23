@@ -156,7 +156,7 @@ h1 {
    background-color: var(--cor-secundaria);
 }
 
-@media (min-width: 480px ) and (max-width: 1200px) {
+@media (min-width: 380px ) and (max-width: 1200px) {
    .cabecalho {
       padding: 3%;
       flex-direction:column-reverse;
@@ -179,7 +179,7 @@ h1 {
    }
 }
 
-/*Aplicar: @media (min-width: 480px ) and (max-width: 800px)*/
+/*Aplicar: @media (min-width: 380px ) and (max-width: 800px)*/
 
 
 
